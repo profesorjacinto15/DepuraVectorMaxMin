@@ -37,7 +37,7 @@ public class OperaVector {
     }
 
     /**
-     * <h1>Método que imprime los número contenidos en el vector</h1>
+     * Método que imprime los número contenidos en el vector
      * @param mesg mensaje
      * @param nume vector
      */
@@ -51,7 +51,7 @@ public class OperaVector {
     }
 
     /**
-     * <h1>Método que calcula el promedio de los números que están dentro del vector</h1>
+     * Método que calcula el promedio de los números que están dentro del vector
      * @param nums vector
      * @return el promedio
      */
@@ -82,7 +82,7 @@ public class OperaVector {
     }
 
     /**
-     * <h1>Método que cálcula el valor mínimo del vector pasado</h1>
+     * Método que cálcula el valor mínimo del vector pasado
      * @param nums vector donde vamos a buscar el valor mínimo
      * @return el valor mínimo que contiene el vector
      */
