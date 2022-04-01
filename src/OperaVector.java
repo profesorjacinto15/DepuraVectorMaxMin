@@ -39,7 +39,7 @@ public class OperaVector {
     /**
      * Método que imprime los número contenidos en el vector
      * @param mesg mensaje
-     * @param nume vector
+     * @param nume vector sin ordenar
      */
 
     public static void imprimeNumeros(String mesg, int[] nume) {
@@ -53,7 +53,7 @@ public class OperaVector {
     /**
      * Método que calcula el promedio de los números que están dentro del vector
      * @param nums vector
-     * @return el promedio
+     * @return el promedio de todo el vector
      */
 
     public static int promedio(int[] nums) {
