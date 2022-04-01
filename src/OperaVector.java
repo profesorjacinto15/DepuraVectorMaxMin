@@ -21,7 +21,7 @@ public class OperaVector {
 
     /**
      * Método que crea el vector completa los datos con numeros aleatórios entre 0 y 100
-     * @return vector creado
+     * @return vector creado con numeros aleatorios
      */
 
     public static int[] generaNumeros() {
